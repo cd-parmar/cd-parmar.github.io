@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Chandrasinh Parmar"
 title_separator          : "-"
-name                     : &name "Chandrasing Parmar"
+name                     : &name "Chandrasinh Parmar"
 description              : &description "Educator with 27 years in academia focused in ECE"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://cd-parmar.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -274,7 +274,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  #- jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -283,7 +283,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  #- jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
