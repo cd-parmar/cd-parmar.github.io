@@ -33,18 +33,12 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=7AgOZDUAAAAJ"
   orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : "https://www.semanticscholar.org/author/Chandrasinh-Parmar/2064139319"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Parmar-Chandrasinh"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57816627100"
-
-  # Repositories and software development
-  github           : "academicpages"
  
   # Social media
   linkedin         : "https://www.linkedin.com/in/chandrasinh-parmar-b95b586a"
   youtube          : "https://www.youtube.com/c/chandrasinhparmar"
-
 
 # Publication Category - The following the list of publication categories and their headings
   publication_category:
