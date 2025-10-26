@@ -8,15 +8,15 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Chandrasinh Parmar"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Chandrasing Parmar"
+description              : &description "Educator with 27 years in academia focused in ECE"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://cd-parmar.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "cd-parmar/cd-parmar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,25 +24,25 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "CD Parmar"
+  pronouns         : #"He/him"  
+  bio              : "Associate Professor, Information and Communication Technology department"
+  location         : "Rajkot, India"
+  employer         : "Marwadi University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chandrasinh.parmar@marwadieducation.edu.in" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=7AgOZDUAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/Chandrasinh-Parmar/2064139319"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Parmar-Chandrasinh"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57816627100"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/chandrasinh-parmar-b95b586a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -76,17 +76,69 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://www.youtube.com/c/chandrasinhparmar"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
+Apologies for the misunderstanding. Below is the publication data formatted in YAML, following the exact structure you provided (publication_category: books, manuscripts, conferences) without additional brackets, and categorizing the provided publications accordingly.
+yamlpublication_category:
   books:
-    title: 'Books'
+    title: Books
+    items: []
   manuscripts:
-    title: 'Journal Articles'    
+    title: Journal Articles
+    items:
+      - authors: Chakraborty, A., Saxena, R. S., Singh, I., Parmar, C., Khatibi, A., Prashar, N., ..., Shah, S. K.
+        year: 2025
+        title: A Compact Defected Ground Structure‐Based High Isolated Monopole MIMO Antenna for USB Band Mobile Satellite Services
+        journal: International Journal of Communication Systems
+        volume: 38
+        issue: 10
+        article_id: e70144
+      - authors: Parmar, C., Kotak, N., Sorathiya, V., Patel, S. K.
+        year: 2022
+        title: A comprehensive study of plant pest and disease detection using different computer vision techniques
+        journal: Artificial Intelligence for Signal Processing and Wireless Communication
+        volume: 11
+        pages: 47-59
+      - authors: Tajjour, S., Patel, S. K., Parmar, C., Dhasarathan, V.
+        year: 2020
+        title: Implementation of Automatic Skin Lesions Diagnosis-A Deep Learning Ensembling Approach
+        journal: Journal of Advanced Engineering and Computation
+        volume: 4
+        issue: 4
+        pages: 261-272
   conferences:
-    title: 'Conference Papers'
+    title: Conference Papers
+    items:
+      - authors: Jivani, S., Dubey, V., Bharamak, M., Parmar, C., Nahar, T.
+        year: 2024
+        month: May
+        title: Advancements and challenges in optical sorting technology in real time: A review
+        conference: 2024 Parul International Conference on Engineering and Technology (PICET)
+        publisher: IEEE
+        pages: 1-6
+      - authors: Hasti, H. V., Jatan, S. A., Nahar, T., Dubey, V., Parmar, C.
+        year: 2024
+        month: July
+        title: Image Processing and Machine Learning Methods for Assessing Food Quality
+        conference: 2024 International Conference on Data Science and Network Security (ICDSNS)
+        publisher: IEEE
+        pages: 01-06
+      - authors: Parikh, A., Raval, M. S., Parmar, C., Chaudhary, S.
+        year: 2016
+        month: October
+        title: Disease detection and severity estimation in cotton plant from unconstrained images
+        conference: 2016 IEEE International Conference on Data Science and Advanced Analytics (DSAA)
+        publisher: IEEE
+        pages: 594-601
+      - authors: Parmar, C. D., Dwivedi, V. V., Wandra, H. H.
+        year: 2010
+        month: October
+        title: Firmware for file transfer between Bluetooth module and flash memory through microcontroller in an emerging concept of wireless portable memory access
+        conference: 2010 INTERNATIONAL CONFERENCE ON COMMUNICATION CONTROL AND COMPUTING TECHNOLOGIES
+        publisher: IEEE
+        pages: 42-46
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
