@@ -23,7 +23,7 @@ repository               : "cd-parmar/cd-parmar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://raw.githubusercontent.com/cd-parmar/cd-parmar.github.io/1598c4e431e06f67d1fc7e52b3351c3cc07c2c1d/profile.png"
+  avatar           : "https://raw.githubusercontent.com/cd-parmar/cd-parmar.github.io/https://github.com/cd-parmar/cd-parmar.github.io/blob/87ab83238cb992a320edfeb8ff6ca100707a3104/profile.png"
   name             : "CD Parmar"
   bio              : "Associate Professor, Information and Communication Technology department"
   location         : "Rajkot, India"
