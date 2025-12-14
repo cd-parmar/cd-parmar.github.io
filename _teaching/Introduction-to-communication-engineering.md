@@ -1,8 +1,8 @@
 ---
-title: "Introduction to Communication Engineering"
+title: "Introduction to Communication Engineering - 01CT1303"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-introduction-to-communication-engineering
+permalink: /teaching/introduction-to-communication-engineering
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"

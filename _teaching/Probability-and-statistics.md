@@ -1,8 +1,8 @@
 ---
-title: "Probability and Statistics"
+title: "Probability and Statistics - 01CT1401"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-probability-and-statistics
+permalink: /teaching/probability-and-statistics
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"

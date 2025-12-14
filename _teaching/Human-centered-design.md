@@ -1,8 +1,8 @@
 ---
-title: "Human Centered Design"
+title: "Human Centered Design - 01CTO617"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-human-centered-design
+permalink: /teaching/human-centered-design
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"

@@ -1,8 +1,8 @@
 ---
-title: "Digital Logic Design"
+title: "Digital Logic Design - 01CTO107"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-digital-logic-design
+permalink: /teaching/Digital-logic-design
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"

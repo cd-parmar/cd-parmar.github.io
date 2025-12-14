@@ -2,7 +2,7 @@
 title: "Analog and Digital Communication"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-analog-and-digital-communication
+permalink: /teaching/analog-and-digital-communication
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"

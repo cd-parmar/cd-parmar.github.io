@@ -1,8 +1,8 @@
 ---
-title: "Creativity, Problem Solving and Innovation"
+title: "Creativity, Problem Solving and Innovation - 01CTO521"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-creativity-problem-solving-and-innovation
+permalink: /teaching/creativity-problem-solving-and-innovation
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"

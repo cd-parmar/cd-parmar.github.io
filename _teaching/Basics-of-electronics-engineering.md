@@ -1,8 +1,8 @@
 ---
-title: "Basics of Electronics Engineering"
+title: "Basics of Electronics Engineering - 01EC0101"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-basics-of-electronics-engineering
+permalink: /teaching/basics-of-electronics-engineering
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"

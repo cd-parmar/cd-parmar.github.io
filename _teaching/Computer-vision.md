@@ -1,8 +1,8 @@
 ---
-title: "Computer Vision"
+title: "Computer Vision - 01CT1621"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-computer-vision
+permalink: /teaching/computer-vision
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"

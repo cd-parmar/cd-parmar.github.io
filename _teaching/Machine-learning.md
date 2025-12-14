@@ -1,8 +1,8 @@
 ---
-title: "Machine Learning"
+title: "Machine Learning - 01CT1519"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-machine-learning
+permalink: /teaching/machine-learning
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"

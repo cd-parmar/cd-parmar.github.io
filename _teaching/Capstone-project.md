@@ -1,8 +1,8 @@
 ---
-title: "Capstone Project"
+title: "Capstone Project - 01CTO715"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-capstone-project
+permalink: /teaching/capstone-project
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"

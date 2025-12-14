@@ -1,8 +1,8 @@
 ---
-title: "Digital Signal and Image Processing"
+title: "Digital Signal and Image Processing - 01CT1513"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-01-01-digital-signal-and-image-processing
+permalink: /teaching/digital-signal-and-image-processing
 venue: "Marwadi University, Department of Information and Communication Technology"
 date: 2025-01-01
 location: "Rajkot, Gujarat, India"
