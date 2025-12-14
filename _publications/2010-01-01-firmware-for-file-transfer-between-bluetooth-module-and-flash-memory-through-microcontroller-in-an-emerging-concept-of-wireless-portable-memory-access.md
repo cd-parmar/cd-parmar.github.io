@@ -3,7 +3,7 @@ title: "Firmware for file transfer between Bluetooth module and flash memory thr
 collection: publications
 category: manuscripts
 permalink: /publication/2010-01-01-firmware-for-file-transfer-between-bluetooth-module-and-flash-memory-through-microcontroller-in-an-emerging-concept-of-wireless-portable-memory-access
-excerpt: 'Abstract not available in metadata.'
+excerpt: 'The popularity of wireless communication application is increased specially in the ISM band which provides services for free. Bluetooth is one of the technology in unlicensed band which becomes very useful now a days in many short rage application because of its advantages like low power consumption, low cost, low size, universal applicability, multiple simultaneous link. This paper is on the one of its emerging application. We have already seen many of its application in the market now a days like wireless mouse, key board, speaker, printers, fax cell phone access, PDA access etc using Bluetooth link. The use of portable Memory like flash memory known as pen drive, smart card portable hard disk etc. is very popular and common so the theme of this paper is to access a portable memory which may in the pocket of someone in its range without connecting via cable, of course with permission of memory owner via pass key. This paper is on the emerging application, the wireless memory access through Bluetooth enabled DTE. The main focus of this paper is on wireless memory module side, specifically a firmware for transfer file read, write and erase from Bluetooth transceiver to flash memory using micro controller.'
 date: 2010-01-01
 venue: '2010 International Conference on Communication Control and Computing Technologies'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/5670781'
